@@ -1,0 +1,63 @@
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.exe
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.deps.json
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.runtimeconfig.json
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.pdb
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\DSharpPlus.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding Project\Twitchcord Welcomer\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.AssemblyReference.cache
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.AssemblyInfoInputs.cache
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.AssemblyInfo.cs
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.CoreCompileInputs.cache
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.CopyComplete
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\refint\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.pdb
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.genruntimeconfig.cache
+D:\Coding Project\Twitchcord Welcomer\obj\Debug\net6.0\ref\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.exe
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.deps.json
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.runtimeconfig.json
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Twitchcord Welcomer.pdb
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\DSharpPlus.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Core.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Core.Enums.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Core.Interfaces.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Core.Models.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Helix.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Api.Helix.Models.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Client.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Client.Enums.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Client.Models.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.Communication.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.EventSub.Core.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.EventSub.Websockets.dll
+D:\Coding Project\Twitchcord-Welcomer\bin\Debug\net6.0\TwitchLib.PubSub.dll
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.AssemblyReference.cache
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.AssemblyInfoInputs.cache
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.AssemblyInfo.cs
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.CoreCompileInputs.cache
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.csproj.CopyComplete
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\refint\Twitchcord Welcomer.dll
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.pdb
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\Twitchcord Welcomer.genruntimeconfig.cache
+D:\Coding Project\Twitchcord-Welcomer\obj\Debug\net6.0\ref\Twitchcord Welcomer.dll
