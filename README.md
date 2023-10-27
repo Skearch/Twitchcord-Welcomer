@@ -18,4 +18,4 @@ Follow these steps to set up the Discord bot and Twitch integration:
 9. Update the `twitchToken` variable in `program.cs` with the copied access token.
 10. Replace the `twitchName` variable in `program.cs` with your Twitch account's username.
 11. Replace the `twitchChannelName` variable in `program.cs` with the Twitch username where you want to send welcome messages.
-12. Build the project.
+12. Build the project and run the .exe.
